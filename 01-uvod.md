@@ -14,3 +14,5 @@ Tento dokument obsahuje definici vlastností sad dlaždicových
 matic pro různé souřadnicové systémy. Nabízí také praktické příklady sad matic dlaždic.
 
 Při psaní vycházíme ze standardu [OGC WMTS](https://www.ogc.org/standards/wmts).
+
+.
